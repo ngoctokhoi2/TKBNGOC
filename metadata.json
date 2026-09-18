@@ -1,0 +1,6 @@
+{
+  "name": "Quản Lý Thời Khóa Biểu, Lịch Báo Giảng & Kế Hoạch Bài Dạy",
+  "description": "Hệ thống quản lý Thời khóa biểu linh hoạt, tự động lập Lịch báo giảng 7 tiết/ngày, xuất Kế hoạch bài dạy (KHBD) chuẩn Công văn 2345/BGDĐT và tải phiếu bài tập trắc nghiệm cuối tuần các môn Toán, Tiếng Việt, Đạo đức, HĐTN, TNXH, Khoa học, Lịch sử & Địa lí theo tuần từ Loigiaihay.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
